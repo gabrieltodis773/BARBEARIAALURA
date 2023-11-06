@@ -28,6 +28,9 @@ em strong {
         background: #FFFF;
         padding: 20px;
  }
+ em strong{
+    color: blue;
+ }
  h2 {
     text-align: center;
  }
